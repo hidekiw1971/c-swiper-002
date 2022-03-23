@@ -26,7 +26,7 @@
 
 ## portfolio url:
 
-- https://css-md-0024.wtb.cfbx.jp/
+- https://c-0024.wtb.cfbx.jp/
 
 ## 参考にしたサイト
 
